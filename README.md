@@ -18,28 +18,24 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#image">Image</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 <hr>
 
 ## About The Project
-<p>Welcome to my project carried out at the Rocketseat Discover event with the aim of organizing your money in the month or week.</p>
+<p>Welcome to my project carried out at the Rocketseat Discover event with the aim of organizing your money :money_with_wings: in the month or week. :green_heart:</p>
 
 ### Built With
-I used some web technologies in order to train:
+I used some web technologies in order to train:mortar_board::
 * HTML5
 * CSS3
 * JavaScript
 
 ## Getting Started
-It is so simple to install and run this project on your local machine, but you can just go to this [link] (https://hildebrando-viana-matos.github.io/project_discover_dev_finance_hildo/.)
+It is so simple to install and run this project on your local machine, but you can just go to this [link](https://hildebrando-viana-matos.github.io/project_discover_dev_finance_hildo/.)
 ### Installation
 1. Clone the repository
    ```sh
@@ -47,4 +43,22 @@ It is so simple to install and run this project on your local machine, but you c
    ```
 2. Go to your File Explorer and find the index.html file, then open your code editor or click on your browser icon
 
-   
+## Usage
+
+Imagine organizing your financial life on a website? Yes, that is the purpose of this website, you can organize and plan your money simply and quickly.
+
+## Contributing
+
+You want contribute of this object????:scream: GREAT!!!!:heart_eyes::heart_eyes::heart_eyes:. Follow the instructions below
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Contact
+
+Hildebrando Viana Matos - [@hildovm](https://www.instagram.com/hildovm/) - hildocontato@gmail.com
+
+Project Link: [https://hildebrando-viana-matos.github.io/project_discover_dev_finance_hildo/.](https://hildebrando-viana-matos.github.io/project_discover_dev_finance_hildo/.)
